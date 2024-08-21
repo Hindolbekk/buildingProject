@@ -27,9 +27,9 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "4": {
-                title: "Garden",
+                title: "bino oldidagi bog'",
                 description: "yashil bog' qismi",
-                imgSrc: "https://images.squarespace-cdn.com/content/v1/59cb502e1f318dc50f160957/94a8f929-5013-45d1-bc21-ca8ef3dda873/beautiful-gardens-in-the-world.jpg"
+                imgSrc: "https://root-nation.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/08/falkirk-wheel.png.webp"
             },
             "5": {
                 title: "",
@@ -54,24 +54,24 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "9": {
-                title: "Garden",
+                title: "Favvora oldidagi bog'",
                 description: "yashil bog' qismi",
-                imgSrc: "https://images.squarespace-cdn.com/content/v1/59cb502e1f318dc50f160957/94a8f929-5013-45d1-bc21-ca8ef3dda873/beautiful-gardens-in-the-world.jpg"
+                imgSrc: "https://cdn.beta.qalampir.uz/uploads/7w/f_LTKRNypnTPcqFPhz87zOKtpeKWPv1N.jpg"
             },
             
             "10": {
-                title: "Garden",
+                title: "Daraxtlar bog'i",
                 description: "yashil bog' qismi",
-                imgSrc: "https://images.squarespace-cdn.com/content/v1/59cb502e1f318dc50f160957/94a8f929-5013-45d1-bc21-ca8ef3dda873/beautiful-gardens-in-the-world.jpg"
+                imgSrc: "https://uznature.uz/uploads/photo_2023-07-07_17-28-09.jpg"
             },
             "11": {
-                title: "",
-                description: "",
-                imgSrc: ""
+                title: "Kichik  bog'",
+                description: "yashil bog' qismi",
+                imgSrc: "https://storage.kun.uz/source/7/Ib1jU7jdq9G033oBSRVscgs4tczKBAeH.jpg"
             },
             
             "12": {
-                title: "Garden",
+                title: "Kichik Bog'",
                 description: "yashil bog' qismi",
                 imgSrc: "https://images.squarespace-cdn.com/content/v1/59cb502e1f318dc50f160957/94a8f929-5013-45d1-bc21-ca8ef3dda873/beautiful-gardens-in-the-world.jpg"
             },
@@ -181,8 +181,8 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             "32": {
                 title: "Favvora",
-                description: "Ko'ngil ochar suv harakatlari",
-                imgSrc: "https://www.yoshlarovozi.uz/uploads/news/78464448019934aaae876811428cb381.jpg"
+                description: "Ko'ngil ochar suv favvoralari",
+                imgSrc: "https://images.deal.by/185797950_w600_h600_185797950.jpg"
             },
             
             "33": {
@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "34": {
-                title: "Daraxt1",
+                title: "Chinor",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -202,9 +202,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "36": {
-                title: "Daraxt2",
-                description: "Havoni tozalaydi",
-              imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
+                title: "Terak",
+                description: "Havoni tozalaydi,bo'yi uzun bo'ladi",
+              imgSrc: "https://api.cabinet.smart-market.uz/uploads/images/ff808181e276b4d6af4c177e"
             },
             
             "37": {
@@ -213,7 +213,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "38": {
-                title: "Daraxt3",
+                title: "Qora qayn",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "40": {
-                title: "Daraxt4",
+                title: "Qarag'ay",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "42": {
-                title: "Daraxt5",
+                title: "Qayrag'och",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -246,7 +246,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "44": {
-                title: "Daraxt6",
+                title: "Yong'oq",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -257,7 +257,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "46": {
-                title: "Daraxt7",
+                title: "Oq qayn",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -268,9 +268,9 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "48": {
-                title: "Daraxt8",
+                title: "Tol",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
+                imgSrc: "https://bonsai-en.shop/cdn/shop/articles/Untitled_design_-_2023-01-30T140121.490-231350_1100x.jpg?v=1675073126"
             },
             "49": {
                 title: "",
@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "50": {
-                title: "Daraxt10",
+                title: "Qatrang'i",
                 description: "Havoni tozalaydi",
              imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -290,7 +290,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "52": {
-                title: "Daraxt11",
+                title: "Zarang",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -301,9 +301,9 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "54": {
-                title: "Daraxt12",
+                title: "Chetan",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
+                imgSrc: "https://bonsai-en.shop/cdn/shop/articles/Untitled_design_-_2023-01-30T140121.490-231350_1100x.jpg?v=1675073126"
             },
             "55": {
                 title: "",
@@ -312,7 +312,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "56": {
-                title: "Daraxt13",
+                title: "Shumurt",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -323,7 +323,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "58": {
-                title: "Daraxt14",
+                title: "Chinor",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "60": {
-                title: "Daraxt15",
+                title: "Terak",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -344,7 +344,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "62": {
-                title: "Daraxt16",
+                title: "Qora qayn",
                 description: "Havoni tozalaydi",
               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -355,7 +355,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "64": {
-                title: "Daraxt17",
+                title: "Qarag'ay",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -366,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "66": {
-                title: "Daraxt18",
+                title: "Yong'oq",
                 description: "Havoni tozalaydi",
                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "68": {
-                title: "Daraxt19",
+                title: "Oq qayn",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -388,9 +388,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "70": {
-                title: "Daraxt20",
+                title: "Zarang",
                 description: "Havoni tozalaydi",
-               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
+               imgSrc: "https://frankfurt.apollo.olxcdn.com/v1/files/h0kuxof063gg-UZ/image;s=1079x813"
             },
             
             "71": {
@@ -399,7 +399,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "72": {
-                title: "Daraxt21",
+                title: "Chetan",
                 description: "Havoni tozalaydi",
                 imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
@@ -410,9 +410,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 imgSrc: ""
             },
             "74": {
-                title: "Daraxt9",
+                title: "Qatrang'i",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
+                imgSrc: "https://frankfurt.apollo.olxcdn.com/v1/files/h0kuxof063gg-UZ/image;s=1079x813"
             },
             
             "75": {
