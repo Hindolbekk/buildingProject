@@ -19,8 +19,7 @@ body {
 
 path:hover {
     fill: #3498db;
-    transform: scale(0.1) translateZ(0);
-    transition: transform 0.3s ease, fill 0.3s ease;
+    
     cursor: pointer;
 }
 
