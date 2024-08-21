@@ -19,10 +19,13 @@ body {
 
 path:hover {
     fill: #3498db;
-    transform: scale(1.05);
+    transform: scale(0.1) translateZ(0);
     transition: transform 0.3s ease, fill 0.3s ease;
     cursor: pointer;
 }
+
+
+
 
 #info {
     position: absolute;
@@ -36,7 +39,7 @@ path:hover {
 }
 
 #info-img {
-    width: 100%;
+    width: 200px;
     height: auto;
     border-radius: 4px;
     margin-bottom: 10px;

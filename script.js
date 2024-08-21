@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "34": {
                 title: "Daraxt1",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "35": {
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "36": {
                 title: "Daraxt2",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+              imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "37": {
@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "38": {
                 title: "Daraxt3",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "39": {
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "40": {
                 title: "Daraxt4",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "41": {
@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "42": {
                 title: "Daraxt5",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "43": {
@@ -248,7 +248,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "44": {
                 title: "Daraxt6",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "45": {
                 title: "",
@@ -259,7 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "46": {
                 title: "Daraxt7",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "47": {
                 title: "",
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "48": {
                 title: "Daraxt8",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "49": {
                 title: "",
@@ -281,7 +281,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "50": {
                 title: "Daraxt10",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+             imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "51": {
                 title: "",
@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "52": {
                 title: "Daraxt11",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "53": {
                 title: "",
@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "54": {
                 title: "Daraxt12",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "55": {
                 title: "",
@@ -314,7 +314,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "56": {
                 title: "Daraxt13",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "57": {
                 title: "",
@@ -325,7 +325,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "58": {
                 title: "Daraxt14",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "59": {
                 title: "",
@@ -336,7 +336,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "60": {
                 title: "Daraxt15",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             "61": {
                 title: "",
@@ -346,7 +346,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "62": {
                 title: "Daraxt16",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+              imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "63": {
@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "64": {
                 title: "Daraxt17",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "65": {
@@ -368,7 +368,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "66": {
                 title: "Daraxt18",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "67": {
@@ -379,7 +379,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "68": {
                 title: "Daraxt19",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "69": {
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "70": {
                 title: "Daraxt20",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+               imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "71": {
@@ -401,7 +401,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "72": {
                 title: "Daraxt21",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "73": {
@@ -412,7 +412,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "74": {
                 title: "Daraxt9",
                 description: "Havoni tozalaydi",
-                imgSrc: "https://tabiri.ru/wp-content/uploads/2018/09/tushda-daraht.jpg"
+                imgSrc: "https://tushlar-tabiri.uz/wp-content/uploads/2019/10/daraxt-1-2.jpg"
             },
             
             "75": {
